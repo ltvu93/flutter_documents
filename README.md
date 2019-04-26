@@ -10,3 +10,5 @@ https://medium.com/flutter-community/elements-keys-and-flutters-performance-3ef1
 
 https://medium.com/flutter-community/flutter-deep-dive-part-1-renderflex-children-have-non-zero-flex-e25ffcf7c272
 
+https://medium.com/flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3
+
