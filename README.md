@@ -2,6 +2,8 @@
 
 [Widget State Context Inheritedwidget](https://www.didierboelens.com/2018/06/widget---state---context---inheritedwidget/)
 
+[Futures Isolates Event loop](https://www.didierboelens.com/2019/01/futures---isolates---event-loop/)
+
 [The Layer Cake Widgets Elements RenderObjects](https://medium.com/flutter-community/the-layer-cake-widgets-elements-renderobjects-7644c3142401)
 
 [Widgets RenderObjects And Elements](https://medium.com/flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208)
