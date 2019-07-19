@@ -15,3 +15,5 @@
 [Renderflex Children Have Non Zero Flex](https://medium.com/flutter-community/flutter-deep-dive-part-1-renderflex-children-have-non-zero-flex-e25ffcf7c272)
 
 [Profiling Flutter Applications Using The Timeline](https://medium.com/flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3)
+
+[Provider Points Of Interest Points To Care About](https://www.didierboelens.com/2019/07/provider---points-of-interest---points-to-care-about/)
