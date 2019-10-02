@@ -17,3 +17,5 @@
 [Profiling Flutter Applications Using The Timeline](https://medium.com/flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3)
 
 [Provider Points Of Interest Points To Care About](https://www.didierboelens.com/2019/07/provider---points-of-interest---points-to-care-about/)
+
+[Flutter Internals](https://www.didierboelens.com/2019/09/flutter-internals/)
