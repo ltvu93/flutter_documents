@@ -19,3 +19,5 @@
 [Provider Points Of Interest Points To Care About](https://www.didierboelens.com/2019/07/provider---points-of-interest---points-to-care-about/)
 
 [Flutter Internals](https://www.didierboelens.com/2019/09/flutter-internals/)
+
+[Dart What Are Mixins](https://medium.com/flutter-community/dart-what-are-mixins-3a72344011f3)
